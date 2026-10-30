@@ -1,0 +1,8 @@
+1. Discuta como a sobrecarga de construtores facilita a criação de objetos com diferentes conjuntos de informações, permitindo flexibilidade na instânciação de objetos.
+R: A sobrecarga de construtores facilita a criação de objetos com diferentes conjuntos de informações pois, ela possibilita o mesmo construtor execute diferentes versões de acordo com os parâmetros recebidos
+
+2. Como o polimorfismo por sobrescrita facilita a implementação de diferentes formas de pagamento dentro de um sistema sem alterar o código da classe base?
+R: Facilita pois, permite que as formas de pagamento herdem de uma classe em comum, o que evita recriar métodos, e permite diferentes formas de pagamentos adaptarem os comportamentos herdados as suas necessidades o que herdaram
+
+3. Explique como a sobrecarga de métodos permite implementar várias versões do método converter(), mesmo com diferentes tipos de dados e funcionalidades.
+R: A sobrecarga permite criar diferentes versões devido aos parâmetros, se os parâmetros forem diferentes, logo, o bloco que converter() executa será diferente.
